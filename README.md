@@ -1,6 +1,4 @@
-# VoidFlickerFix
-Forge Coremod that fixes the void flicker at y=62 on Arcane and other servers by moving the void down to y=0 for all world types.
+# VoidFlickerFixPorted
+Ported to 1.8.9 version of VoidFlickerFix by 2PI
 
-Some code used from prplz with permission
-
-Download: http://2pi.pw/mods/voidflickerfix
+Dowload in release tab
