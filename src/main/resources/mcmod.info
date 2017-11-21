@@ -1,14 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "voidfixerport",
+  "name": "VoidFlickerFix",
+  "description": "Fixes the void flicker at Y 62 by moving the void down to Y 0 for all world types",
+  "version": "1.1",
   "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "url": "http://2pi.pw/mods/voidflickerfix",
+  "authorList": ["2pi", "prplz", "EmanhMC"],
+  "credits": "Some code taken from prplz's MouseDelayFix mod, Original mod by 2pi, ported to 1.8.9 by EmanhMC",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
